@@ -20,4 +20,5 @@ body {
 .github {
   display: block;
   margin: auto;
+  padding: 20px;
 }
