@@ -17,3 +17,7 @@ body {
   position: relative;
   top: -34px;
 }
+.github {
+  display: block;
+  margin: auto;
+}
